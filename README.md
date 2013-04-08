@@ -1,2 +1,2 @@
-TDDD26-G4-INternetMall
+TDDD26-G4-InternetMall
 =========
